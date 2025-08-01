@@ -40,7 +40,7 @@ logo.onload = () => {
       vx: (Math.random() - 0.5) * 1.5,
       vy: (Math.random() - 0.5) * 1.5,
       alpha: 1,
-      radius: Math.random() * 2 + 0.5
+      radius: Math.random() * 4 + 1
     });
   }
 
